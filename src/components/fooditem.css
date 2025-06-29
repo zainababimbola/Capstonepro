@@ -1,0 +1,23 @@
+.food-card {
+  width: 250px;
+  background: #fff;
+  padding: 1rem;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+  text-align: center;
+}
+
+.food-card img {
+  width: 100%;
+  border-radius: 12px;
+}
+
+.food-card h3 {
+  margin: 0.5rem 0;
+}
+
+.food-card .price-add {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
