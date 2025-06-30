@@ -18,4 +18,7 @@ export default function Navbar({cart}) {
       </ul>
     </nav>
   );
+
 }
+
+
